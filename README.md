@@ -80,3 +80,17 @@ I aim to make each case study clear about **what was analyzed, what the evidence
 ### New: Graph anomaly detection notebook
 
 The [credit-card graph anomaly detection notebook](projects/credit-card-graph-anomalies/credit_card_graph_anomalies.ipynb) includes a full, privacy-conscious workflow for monthly PageRank, anomaly screening, and aggregate visualization. The original transaction-level data are intentionally not redistributed.
+
+## Data-backed visual highlights
+
+The charts below are derived from the uploaded project datasets, rather than illustrative stock graphics.
+
+### Steam — popularity and player engagement
+
+![Steam popularity and engagement](projects/steam-player-engagement/assets/popularity-engagement.svg)
+
+### Credit-card networks — monthly anomaly flags
+
+![Credit-card monthly anomaly flags](projects/credit-card-graph-anomalies/assets/monthly-anomalies.svg)
+
+Both are descriptive visuals. See the project pages for sample definitions and limitations.
