@@ -27,3 +27,6 @@ Review sentiment should not be treated as a substitute for engagement metrics. S
 The study is observational and cross-sectional. Associations do not establish that popularity causes engagement or that reviews have no causal effect. The limited game sample and observation period restrict generalization.
 
 **Source:** Uploaded group final report and analysis notebook. Collaborative work; individual contributions should be clarified before claiming sole authorship. A curated notebook will be added after checking paths and dependencies.
+
+## My contribution
+I contributed to both the **analysis and coding** and the **dashboards and visualizations** as part of the project team. The project is presented as collaborative work, not as an individual-only deliverable.
