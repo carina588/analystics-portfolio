@@ -36,3 +36,9 @@ I contributed to both the **analysis and coding** and the **dashboards and visua
 [Open the curated Jupyter notebook](steam_analysis_portfolio.ipynb) · [View the Python script](analysis_excerpt.py) · [Dependencies](requirements.txt)
 
 The notebook has no saved outputs and generates charts when run with the original input CSVs. The notebook is a shortened, portable adaptation of the uploaded group analysis; it has not yet been end-to-end executed in this repository environment.
+
+## Verified visual evidence
+
+![Binned popularity and engagement relationship](assets/popularity-engagement.svg)
+
+This figure was generated from the uploaded cleaned review and SteamSpy CSVs. The 91 matched games were grouped by log concurrent users; circles show group means and approximate group size. The unbinned log-variable Pearson correlation is approximately **0.739** for these 91 matched records. This is a descriptive relationship and does **not** replace the original report's controlled regression results.
