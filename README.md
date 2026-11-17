@@ -94,3 +94,9 @@ The charts below are derived from the uploaded project datasets, rather than ill
 ![Credit-card monthly anomaly flags](projects/credit-card-graph-anomalies/assets/monthly-anomalies.svg)
 
 Both are descriptive visuals. See the project pages for sample definitions and limitations.
+
+### Spotify — churn by subscription type
+
+![Spotify churn rate by subscription type](projects/spotify-retention/assets/churn-by-subscription.svg)
+
+The chart summarizes an uploaded 8,000-row sample; it is not an official Spotify company-wide churn statistic. See the [Spotify case study](projects/spotify-retention/README.md) for definitions and sample sizes.
