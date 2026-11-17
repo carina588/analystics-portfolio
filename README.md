@@ -15,6 +15,7 @@ I turn complex data into clear, decision-ready insights. My work spans product a
 | [Steam Reviews & Player Engagement](projects/steam-player-engagement/README.md) | Do public reviews explain engagement beyond game popularity? | Python, VADER, OLS regression, K-Means | Case study published |
 | [Spotify Retention & Conversion](projects/spotify-retention/README.md) | What user behaviors and segments matter for retention and conversion? | Tableau, Python, customer analytics | Case study published; dashboard files under review |
 | [Credit Card Graph Anomaly Detection](projects/credit-card-graph-anomalies/README.md) | Can transaction-network structure reveal unusual cardholder–vendor relationships? | Python, NetworkX, PageRank | Case study published |
+| [NYC Taxi Trip & Fare Exploration](projects/nyc-taxi-exploration/README.md) | How do trip and fare patterns describe taxi operations? | Python, pandas, EDA | Case study published; notebook cleanup pending |
 | [Sector ETF Risk Analytics](projects/sector-etf-risk/README.md) | How do sectors compare across performance, risk and market regimes? | Python, Streamlit, VaR backtesting | Experience overview; code pending review |
 | [NYC Housing Health Score](projects/nyc-housing-health/README.md) | How can large-scale complaint data help identify housing-quality risks? | PostgreSQL, MongoDB, Spark | Experience overview; code pending review |
 
@@ -32,6 +33,6 @@ I turn complex data into clear, decision-ready insights. My work spans product a
 
 ## About this portfolio
 
-Projects are presented as reproducible case studies where materials are available. Group projects are labeled as collaborative work; analyses and conclusions are described within their original study limitations. Some experience-based projects are initially documented without source code, pending permissions and review. Large datasets and confidential employer materials are not published.
+Projects are documented as case studies, with reproducibility status noted on each project page. The Steam project includes a curated Python analysis excerpt, but the complete original notebooks and large datasets are not yet hosted. Group projects are labeled as collaborative work; analyses and conclusions are described within their original study limitations. Some experience-based projects are initially documented without source code, pending permissions and review. Large datasets and confidential employer materials are not published.
 
 *Repository setup in progress — additional notebooks, figures, dashboards and reproducibility instructions will be added after review.*
