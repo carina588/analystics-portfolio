@@ -23,14 +23,14 @@ I'm an applied analytics graduate student with experience across **quantitative 
 
 | Project | Business question | Skills demonstrated | Explore |
 | :--- | :--- | :--- | :--- |
-| **Steam Reviews & Player Engagement** · Team project | Do reviews explain player engagement beyond game popularity? | Python · Sentiment analysis · OLS · K-Means | [Case study](projects/steam-player-engagement/README.md) · [Code excerpt](projects/steam-player-engagement/analysis_excerpt.py) |
+| **Steam Reviews & Player Engagement** · Team project | Do reviews explain player engagement beyond game popularity? | Python · Sentiment analysis · OLS · K-Means | [Case study](projects/steam-player-engagement/README.md) · [Notebook](projects/steam-player-engagement/steam_analysis_portfolio.ipynb) · [Code excerpt](projects/steam-player-engagement/analysis_excerpt.py) |
 | **Spotify Retention & Conversion** · Team project | How can user segments inform retention and conversion strategy? | Tableau · Product analytics · Cohort analysis | [Case study](projects/spotify-retention/README.md) · [Analysis plan](projects/spotify-retention/ANALYSIS_PLAN.md) |
 | **Credit Card Graph Anomaly Detection** | Can network changes reveal unusual transaction relationships? | Python · Graph analytics · PageRank | [Case study](projects/credit-card-graph-anomalies/README.md) · [Methodology](projects/credit-card-graph-anomalies/METHODOLOGY.md) |
 | **NYC Taxi Trip & Fare Exploration** | What patterns characterize taxi trips and fares? | Python · pandas · EDA | [Case study](projects/nyc-taxi-exploration/README.md) |
 | **Sector ETF Performance & Risk** · Internship overview | How do sectors compare across market regimes and risk measures? | Python · Streamlit · VaR backtesting | [Experience overview](projects/sector-etf-risk/README.md) |
 | **NYC Housing Health Score** | How can complaint records inform property-level risk screening? | SQL · MongoDB · Spark | [Project overview](projects/nyc-housing-health/README.md) |
 
-> **Publication status:** Project documentation is live. The Steam case study includes an adapted analysis script; other complete notebooks, interactive dashboards and original screenshots are being curated and are not yet hosted. Each page states its evidence and reproducibility limits.
+> **Publication status:** Project documentation is live. The Steam case study includes a curated Jupyter notebook and an adapted analysis script; other complete notebooks, interactive dashboards and original screenshots are being curated and are not yet hosted. Each page states its evidence and reproducibility limits.
 
 ## How I approach analytics
 
