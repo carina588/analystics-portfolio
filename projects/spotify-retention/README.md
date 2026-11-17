@@ -18,3 +18,6 @@ Tableau · Python · Customer segmentation · Retention and conversion analytics
 4. Recommendations and limitations
 
 The final dashboard and numerical claims are being checked before publication. This is group work; contributions should be attributed accurately.
+
+## My contribution
+I contributed to both the **analysis and coding** and the **dashboards and visualizations** as part of the project team. The project is presented as collaborative work, not as an individual-only deliverable.
