@@ -15,3 +15,10 @@ data/private/
 *.parquet
 *.pkl
 *.joblib
+
+# Additional sensitive or large input files
+purchase_credit_card.csv
+purchase_credit_card.csv.zip
+clean_review_proposal.csv
+clean_steamspy_proposal.csv
+*.twbx
