@@ -25,3 +25,9 @@ Uploaded `Credit_Card_Graph_Anomaly_Assignment_Download.ipynb`. The complete not
 [Open the curated analysis notebook](credit_card_graph_anomalies.ipynb). Install dependencies from [requirements.txt](requirements.txt) and place the original `purchase_credit_card.csv.zip` inside `data/`. This notebook is a privacy-conscious adaptation of the uploaded assignment: it excludes identifying output tables, uses portable paths, and generates an aggregate monthly anomaly chart when executed. The notebook has not yet been executed end-to-end in this published environment.
 
 **Reported results from the original notebook:** 442,458 transactions over 12 months, 39 flagged node-months (27 cardholder and 12 vendor), and 466 large adjacent-month percentile movements. These are not counts of confirmed fraud cases.
+
+## Verified visual evidence
+
+![Monthly anomaly flags](assets/monthly-anomalies.svg)
+
+This figure uses the 39 rows in the uploaded `monthly_flagged_anomalies.csv`. It shows flagged **node-months**, not distinct individuals or confirmed fraud. Monthly counts range from 2 to 4. Identifying cardholder and vendor names were excluded from the figure.
