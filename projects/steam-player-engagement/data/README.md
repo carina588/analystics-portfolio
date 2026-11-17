@@ -1,0 +1,1 @@
+Place the original `clean_review_proposal.csv` and `clean_steamspy_proposal.csv` here to run `analysis_excerpt.py`. Data are excluded from the public repository pending a provenance/licensing review. The excerpt omits the original review-trend feature, so do not compare its coefficients directly with the complete group report.
