@@ -76,3 +76,7 @@ I aim to make each case study clear about **what was analyzed, what the evidence
 [Get in touch](mailto:Carinazhao409@gmail.com)
 
 </div>
+
+### New: Graph anomaly detection notebook
+
+The [credit-card graph anomaly detection notebook](projects/credit-card-graph-anomalies/credit_card_graph_anomalies.ipynb) includes a full, privacy-conscious workflow for monthly PageRank, anomaly screening, and aggregate visualization. The original transaction-level data are intentionally not redistributed.
