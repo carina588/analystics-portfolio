@@ -30,3 +30,9 @@ The study is observational and cross-sectional. Associations do not establish th
 
 ## My contribution
 I contributed to both the **analysis and coding** and the **dashboards and visualizations** as part of the project team. The project is presented as collaborative work, not as an individual-only deliverable.
+
+## Explore the analysis
+
+[Open the curated Jupyter notebook](steam_analysis_portfolio.ipynb) · [View the Python script](analysis_excerpt.py) · [Dependencies](requirements.txt)
+
+The notebook has no saved outputs and generates charts when run with the original input CSVs. The notebook is a shortened, portable adaptation of the uploaded group analysis; it has not yet been end-to-end executed in this repository environment.
